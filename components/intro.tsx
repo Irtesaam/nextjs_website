@@ -64,7 +64,7 @@ export default function Intro() {
             delay: 0.3,
         }}
         >
-            <span className="font-bold">Hi, I'm Irtesaam</span>, a  <span className="font-bold"> B.Tech student at NIT Hamirpur</span> and I'm a beginner web developer. I'm currently  <span className="font-bold"> learning Next.js, Tailwind CSS </span> and other Web technologies. I'm also into  <span className="font-bold">Pen-Testing and hardware stuffs</span>. I'm open to internships and full-time opportunities.
+            <span className="font-bold">Hi, I&apos;m Irtesaam</span>, a  <span className="font-bold"> B.Tech student at NIT Hamirpur</span> and I&apos;m a beginner web developer. I&apos;m currently  <span className="font-bold"> learning Next.js, Tailwind CSS </span> and other Web technologies. I&apos;m also into  <span className="font-bold">Pen-Testing and hardware stuffs</span>. I&apos;m open to internships and full-time opportunities.
         </motion.p>
 
         <motion.div className="flex flex-col sm:flex-row items-center gap-3 px-4 text-lg font-medium justify-center"
